@@ -1,0 +1,11 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:pkh:1:peasoup",
+  "verificationMethod": [{
+    "id": "did:pkh:1:peasoup#key1",
+    "type": "Ed25519VerificationKey2020",
+    "controller": "did:pkh:1:peasoup",
+    "publicKeyBase58": "eSNLG1ULfdCSqogSNK9SuS4Kq7rN5AuqwVxFBaARSQPnJgfk5zSHiGgh4ZAff19mXbpiLHAj6uhcyyg6j1ySBzhmGYUDcuxkn6usTACzmcWqUmufE5gXWfJ13Xa58f4H3FNY69bCHGCn5AkcKHp5QCBtk1"
+  }],
+  "authentication": ["did:pkh:1:yourUniqueIdentifier#key1"]
+}
